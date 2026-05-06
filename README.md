@@ -157,4 +157,3 @@ Las contribuciones son bienvenidas. Puedes:
 ## 📞 Contacto
 
 Para consultas o sugerencias, abre un issue en el repositorio del proyecto.
-```
